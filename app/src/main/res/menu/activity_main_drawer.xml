@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"/>
+    <item
+        android:id="@+id/nav_share"
+        android:icon="@drawable/ic_baseline_share_24"
+        android:title="Share"/>
+    <item
+        android:id="@+id/nav_rate"
+        android:icon="@drawable/ic_baseline_thumb_up_24"
+        android:title="Rate App"/>
+    <item
+        android:id="@+id/nav_exit"
+        android:icon="@drawable/ic_baseline_arrow_back_24"
+        android:title="Exit"/>
+</menu>
